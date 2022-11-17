@@ -1,4 +1,4 @@
-[![Headeer](https://github.com/Sirena221/sirena221/blob/main/assets/image%20name.png)]
+![Headeer](https://github.com/Sirena221/sirena221/blob/main/assets/image%20name.png)
 
 About me
 
