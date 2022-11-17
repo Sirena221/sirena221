@@ -1,9 +1,11 @@
-![Headeer](https://github.com/Sirena221/sirena221/blob/main/assets/image%20name.png)
+{![Headeer](https://github.com/Sirena221/sirena221/blob/main/assets/image%20name.png)](www.linkedin.com/in/ekaterina-altukhova-026842240)
 
-About me
+## I'm QA engineer
 
 Latest YouTube Videos
 
-Languages and Tools
+### Languages and Tools
+
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)
 
 Follow Me
