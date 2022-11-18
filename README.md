@@ -38,5 +38,5 @@ Latest YouTube Videos
 ### Citizenship
 ![Russian,_Greece_(Moscow/Athens)](https://img.shields.io/badge/-Russian,_Greece_(Moscow/Athens)-090909?style=for-the-badge)
 
-
-Follow Me
+### Follow Me
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=006699)](https://www.linkedin.com/in/ekaterina-altukhova-026842240)
