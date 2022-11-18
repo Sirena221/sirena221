@@ -32,8 +32,8 @@ Latest YouTube Videos
 ![Russian](https://img.shields.io/badge/-Russian_native-090909?style=for-the-badge)
 
 ### Professional development, courses
-![Practicum.yandex](https://img.shields.io/badge/-Practicum.yandex_QA_engineer-090909?style=for-the-badge)
 ![Harvard_Extension_School](https://img.shields.io/badge/-Harvard_Extension_School_CS50’s_Introduction_to_Computer_Science_C,_Python_and_SQL_plus,_HTML,_CSS,_and_JavaScript-090909?style=for-the-badge)
+![Practicum.yandex](https://img.shields.io/badge/-Practicum.yandex_QA_engineer-090909?style=for-the-badge)
 
 ### Citizenship
 ![Russian,_Greece_(Moscow/Athens)](https://img.shields.io/badge/-Russian,_Greece_(Moscow/Athens)-090909?style=for-the-badge)
