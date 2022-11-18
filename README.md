@@ -2,8 +2,6 @@
 
 ## I'm QA engineer
 
-Latest YouTube Videos
-
 ### Key skills
 
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF8C00)
