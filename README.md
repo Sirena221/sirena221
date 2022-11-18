@@ -35,6 +35,12 @@ Latest YouTube Videos
 ![Harvard_Extension_School](https://img.shields.io/badge/-Harvard_Extension_School_CS50’s_Introduction_to_Computer_Science_C,_Python_and_SQL_plus,_HTML,_CSS,_and_JavaScript-090909?style=for-the-badge)
 ![Practicum.yandex](https://img.shields.io/badge/-Practicum.yandex_QA_engineer-090909?style=for-the-badge)
 
+### My CV
+[![hh](https://img.shields.io/badge/-hh_RUS-FF0000?style=for-the-badge&logo=hh&logoColor=FF0000)](https://hh.ru/applicant/resumes/view?resume=93ecf547ff0b5b4f700039ed1f585a5465367a)
+
+### Testing Documentation
+
+
 ### Citizenship
 ![Russian,_Greece_(Moscow/Athens)](https://img.shields.io/badge/-Russian,_Greece_(Moscow/Athens)-090909?style=for-the-badge)
 
