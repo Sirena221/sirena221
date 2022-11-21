@@ -50,8 +50,7 @@
 - [Bug-Reports, Charles, DevTools](https://github.com/Sirena221/Bug-Reports-Charles-DevTools-ENG/find/main)
 - Postman Collections
 - SQL Queries
-- Mindmaps
-
+- [Mindmaps](https://github.com/Sirena221/Mindmap-ENG/find/main)
 
 ### Citizenship
 ![Russian,_Greece_(Moscow/Athens)](https://img.shields.io/badge/-Russian,_Greece_(Moscow/Athens)-090909?style=for-the-badge)
