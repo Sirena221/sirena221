@@ -40,15 +40,15 @@
 - [Checklists and Test-Cases](https://github.com/Sirena221/Checklists-and-Test-Cases-RUS/find/main)
 - [API](https://github.com/Sirena221/API-RUS/find/main)
 - [Bug-Reports, Charles, DevTools](https://github.com/Sirena221/Bug-Reports-Charles-DevTools-RUS/find/main)
-- Postman Collections
+- [Postman Collections](https://github.com/Sirena221/Postman/blob/main/Yandex.prilavok.postman_collection.json)
 - SQL Queries
-- [Mindmaps](https://github.com/Sirena221/Mindmaps-RUS/find/main)
+- [Mindmap and block diagram](https://github.com/Sirena221/Mindmaps-RUS/find/main)
 
 ### Testing Documentation ENG
 - [Checklists and Test-Cases](https://github.com/Sirena221/--ENG/find/main)
 - [API](https://github.com/Sirena221/API-ENG/find/main)
 - [Bug-Reports, Charles, DevTools](https://github.com/Sirena221/Bug-Reports-Charles-DevTools-ENG/find/main)
-- Postman Collections
+- [Postman Collections](https://github.com/Sirena221/Postman/blob/main/Yandex.prilavok.postman_collection.json)
 - SQL Queries
 - [Mindmaps](https://github.com/Sirena221/Mindmap-ENG/find/main)
 
