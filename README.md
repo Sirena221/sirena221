@@ -42,7 +42,7 @@
 - [Bug-Reports, Charles, DevTools](https://github.com/Sirena221/Bug-Reports-Charles-DevTools-RUS/find/main)
 - Postman Collections
 - SQL Queries
-- Mindmaps
+- [Mindmaps](https://github.com/Sirena221/Mindmaps-RUS/find/main)
 
 ### Testing Documentation ENG
 - [Checklists and Test-Cases](https://github.com/Sirena221/--ENG/find/main)
