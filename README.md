@@ -37,18 +37,20 @@
 [![hh](https://img.shields.io/badge/-hh_RUS-FF0000?style=for-the-badge&logo=hh&logoColor=FF0000)](https://hh.ru/applicant/resumes/view?resume=93ecf547ff0b5b4f700039ed1f585a5465367a)
 
 ### Testing Documentation RUS
-Checklists and Test-Cases
-Bug-Reports
-Postman ColLections
-SQL Queries
-Mindmaps
+- [Checklists and Test-Cases](https://github.com/Sirena221/Checklists-and-Test-Cases-RUS/find/main)
+- API
+- Bug-Reports
+- Postman ColLections
+- SQL Queries
+- Mindmaps
 
 ### Testing Documentation ENG
-Checklists and Test-Cases
-Bug-Reports
-Postman ColLections
-SQL Queries
-Mindmaps
+- [Checklists and Test-Cases](https://github.com/Sirena221/--ENG/find/main)
+- API
+- Bug-Reports
+- Postman ColLections
+- SQL Queries
+- Mindmaps
 
 
 ### Citizenship
