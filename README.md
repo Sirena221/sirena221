@@ -38,9 +38,9 @@
 
 ### Testing Documentation RUS
 - [Checklists and Test-Cases](https://github.com/Sirena221/Checklists-and-Test-Cases-RUS/find/main)
-- API
+- [API](https://github.com/Sirena221/API-RUS/find/main)
 - Bug-Reports
-- Postman ColLections
+- Postman Collections
 - SQL Queries
 - Mindmaps
 
@@ -48,7 +48,7 @@
 - [Checklists and Test-Cases](https://github.com/Sirena221/--ENG/find/main)
 - API
 - Bug-Reports
-- Postman ColLections
+- Postman Collections
 - SQL Queries
 - Mindmaps
 
