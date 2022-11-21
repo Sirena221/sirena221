@@ -39,7 +39,7 @@
 ### Testing Documentation RUS
 - [Checklists and Test-Cases](https://github.com/Sirena221/Checklists-and-Test-Cases-RUS/find/main)
 - [API](https://github.com/Sirena221/API-RUS/find/main)
-- [Bug-Reports, Charles, DevTools]
+- [Bug-Reports, Charles, DevTools](https://github.com/Sirena221/Bug-Reports-Charles-DevTools-RUS/find/main)
 - Postman Collections
 - SQL Queries
 - Mindmaps
@@ -47,7 +47,7 @@
 ### Testing Documentation ENG
 - [Checklists and Test-Cases](https://github.com/Sirena221/--ENG/find/main)
 - [API](https://github.com/Sirena221/API-ENG/find/main)
-- [Bug-Reports, Charles, DevTools]
+- [Bug-Reports, Charles, DevTools](https://github.com/Sirena221/Bug-Reports-Charles-DevTools-ENG/find/main)
 - Postman Collections
 - SQL Queries
 - Mindmaps
