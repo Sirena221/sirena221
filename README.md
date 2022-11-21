@@ -33,7 +33,7 @@
 ![Harvard_Extension_School](https://img.shields.io/badge/-Harvard_Extension_School_CS50’s_Introduction_to_Computer_Science_C,_Python_and_SQL_plus,_HTML,_CSS,_and_JavaScript-090909?style=for-the-badge)
 ![Practicum.yandex](https://img.shields.io/badge/-Practicum.yandex_QA_engineer-090909?style=for-the-badge)
 
-### My CV
+### My CV here
 [![hh_RUS](https://img.shields.io/badge/-hh_RUS-FF0000?style=for-the-badge&logo=hh_RUS&logoColor=993333)](https://hh.ru/resume/93ecf547ff0b5b4f700039ed1f585a5465367a)
 [![hh_ENG](https://img.shields.io/badge/-hh_ENG-FF0000?style=for-the-badge&logo=hh&logoColor=993333)](https://hh.ru/applicant/resumes/view?resume=9841e45bff0b787a120039ed1f714835366664)
 
